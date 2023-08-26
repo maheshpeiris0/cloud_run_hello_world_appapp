@@ -1,6 +1,7 @@
 # cloud_run_hello_world_appapp
 
-Log into gcloud: gcloud auth login <br>
+Log into gcloud: <br>
+gcloud auth login <br>
 
 Configure docker: <br>
 gcloud auth configure-docker europe-west1-docker.pkg.dev (make sure to specify appropriate region)
