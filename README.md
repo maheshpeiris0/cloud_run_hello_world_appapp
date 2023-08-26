@@ -18,3 +18,8 @@ docker build -t image-name .
 docker tag image-name gcr.io/Google-Cloud-Project-Name/image-name:tag 
 <br>
 docker push gcr.io/Google-Cloud-Project-Name/image-name:tag
+<br>
+
+Cloud Shell Editor <br>
+https://ide.cloud.google.com/
+
